@@ -16,6 +16,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
+<img src="https://i.imgur.com/Ld3GeSw.png" height="80%" width="80%" alt="Go to whatismyipaddress.com"/>
+</p>
+<p>
+Allow the website to locate your area and write down your IP Address.
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/19vyGNQ.png" height="80%" width="80%" alt="Topology"/>
 </p>
 <p>
@@ -27,7 +35,7 @@ This diagram show what the steps are and make it easier to understand.
 <img src="https://i.imgur.com/vRvqXPH.png" height="80%" width="80%" alt="Create A Resource Group"/>
 </p>
 <p>
-Choose any region however you need to keep the region the same when creating a virtual machine as well
+You need to keep the region the same for a resource group and virtual machine.
 </p>
 <br />
 
@@ -35,7 +43,7 @@ Choose any region however you need to keep the region the same when creating a v
 <img src="https://i.imgur.com/O91hmMz.png" height="80%" width="80%" alt="Create A Virtual Machine"/>
 </p>
 <p>
-Choose Windows 10,  the same region as the resource group you created.
+Choose Windows 10, RDP, and the same region as the resource group you created.
 </p>
 <br />
 
@@ -43,6 +51,46 @@ Choose Windows 10,  the same region as the resource group you created.
 <img src="https://i.imgur.com/GDmTLhb.png" height="80%" width="80%" alt="Remote Desktop Connection"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Copy the public IP Adress onto the remote desktop connection.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/LNeqMT0.jpg" height="80%" width="80%" alt="Download ProtonVPN into Windows"/>
+</p>
+<p>
+Choose the windows download.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/P8plfWA.jpg" height="80%" width="80%" alt="Connect To An Open Free VPN Server"/>
+</p>
+<p>
+Connect to Japan.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/lFkECUi.jpg" height="80%" width="80%" alt="Go onto whatismyipaddress.com"/>
+</p>
+<p>
+The IP Address is now located in Tokyo.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/tPGCmMt.jpg" height="80%" width="80%" alt="Go to google and observe the changes"/>
+</p>
+<p>
+Since VPN is used in a Japan server; Google changed.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/QGIXapN.jpg" height="80%" width="80%" alt="Look at Netflix's URL"/>
+</p>
+<p>
+The ending of the URL is now "jp-en/".
 </p>
 <br />
