@@ -26,7 +26,7 @@ Allow the website to locate your area and write down your IP Address.
 <img src="https://i.imgur.com/19vyGNQ.png" height="80%" width="80%" alt="Topology"/>
 </p>
 <p>
-This diagram show what the steps are and make it easier to understand.
+In this lab, we're going to create a Virtual Machine using Azure. Once the VM is created, we download the VPN and connect to a Japanese VPN server to see how it affects google and traffic.
 </p>
 <br />
 
